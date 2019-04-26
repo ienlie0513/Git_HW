@@ -21,4 +21,4 @@ script: true
   
  # Another command/method to run tests
 script: 
-  - python TestCalculator.py
+  - python Calculator.py
