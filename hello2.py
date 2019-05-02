@@ -1,5 +1,2 @@
-print ("Hello2")
-print ("conflict")
-
-x=2
+print ("Lab4")
 
